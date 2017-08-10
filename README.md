@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(August 10th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Tiffany Boyer)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This lesson uses an API, Ajax, and JSON-formatted Data to build an application..)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://tiffanyboyer.github.io/lesson8_ajax/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (What is AJAX and the Steps involved in using AJAX to update data.)
+2. (What an HTTP request is and how you interpret an HTTP response.)
+3. (How to update a webpage by processing data and add it to the DOM.)
